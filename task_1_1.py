@@ -1,3 +1,4 @@
 # Block 1 Aufgabe 1
 
-print("Test")
+name = input("Gib deinen Namen ein: ")
+print(f"Hallo {name}, wie geht es dir heute?")
