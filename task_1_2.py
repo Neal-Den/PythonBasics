@@ -2,7 +2,7 @@
 
 print(type(11))
 print(type(1.1))
-print(type("ölf"))
+print(type("elf"))
 
 """ 
 Wissensfrage: Was ist der Unterschied zwischen = und ==? 
